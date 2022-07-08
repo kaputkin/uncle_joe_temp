@@ -1,0 +1,31 @@
+body {
+	font-family: 'Caveat', cursive;
+	text-align: center;
+	padding: 3rem;
+	font-size: 1.125rem;
+	line-height: 1.5;
+    transition: all 1425ms ease-in-out;
+    background-image: url('asfalt-dark.png');
+}
+
+.title-text {
+	font-size: 4rem;
+	font-weight: bold;
+	padding-bottom: 2rem;
+    color: #8e4f08;
+    margin: auto;
+
+}
+
+.body-text {
+    font-family: sans-serif;
+	font-size: 2rem;
+	font-weight: 400;
+	margin-bottom: 1rem;
+    color: #363636;
+    margin: auto;
+}
+
+.img-container {
+    text-align: center;
+}
